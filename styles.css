@@ -1,7 +1,4 @@
 /*  your css code here. If applicable */
-margin{
-	border-box:box;
-}
 
 
 .bg-container{
@@ -54,5 +51,7 @@ margin{
 }
 h3{
 	text-align:center;
+	padding:5px;
+	background-color:white;
 	
 }
