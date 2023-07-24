@@ -8,7 +8,7 @@
 	
 /* 	border:2px solid red; */
 }
-.header-1{
+h2{
 	background-color:#011e29;
 	margin:20px;
 	color:white;
@@ -31,7 +31,7 @@
 	height:140px;
 	
 }
-.card-container-2{
+.main-article-section{
 	padding:20px;
 	background-color:white;
 	width:300px;
@@ -40,7 +40,7 @@
 	height:220px;
 	
 }
-.card-container-3{
+.pictorial-news-section{
 	padding:20px;
 	background-color:white;
 	width:230px;
