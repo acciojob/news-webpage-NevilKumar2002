@@ -1,1 +1,54 @@
 /*  your css code here. If applicable */
+margin{
+	border-box:box;
+}
+
+
+.bg-container{
+	background-color:#f5f5f5;
+	width:200vw;
+	height:150vh;
+	
+/* 	border:2px solid red; */
+}
+.header{
+	background-color:#011e29;
+	margin:20px;
+	color:white;
+	height:50px;
+	display:flex;
+	align-items:center;
+	justify-content:center;	
+}
+.card-container{
+	display:flex;
+	justify-content:flex-start;
+	justify-content:space-around;
+}
+.card-container-1{
+	padding:20px;
+	background-color:white;
+	width:180px;
+	margin:20px;
+	border-radius:20px;
+	height:120px;
+	
+}
+.card-container-2{
+	padding:20px;
+	background-color:white;
+	width:300px;
+	margin:20px;
+	border-radius:20px;
+	height:190px;
+	
+}
+.card-container-3{
+	padding:20px;
+	background-color:white;
+	width:230px;
+	margin:20px;
+	border-radius:20px;
+	height:400px;
+	
+}
